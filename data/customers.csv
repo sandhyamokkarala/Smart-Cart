@@ -1,0 +1,101 @@
+customer_id,name,email,age,gender,city,registration_date,total_purchases,total_spending,average_order_value,website_visits
+1,Customer 001,customer1@example.com,40,Female,Denver,2023-06-08,10,3937.56,393.76,60
+2,Customer 002,customer2@example.com,54,Non-binary,Portland,2023-08-31,4,705.76,176.44,51
+3,Customer 003,customer3@example.com,43,Female,Denver,2022-11-05,3,1323.73,441.24,5
+4,Customer 004,customer4@example.com,24,Female,Portland,2022-02-04,4,1751.32,437.83,63
+5,Customer 005,customer5@example.com,64,Female,Miami,2023-05-10,3,467.61,155.87,56
+6,Customer 006,customer6@example.com,32,Male,Atlanta,2023-08-28,7,2288.55,326.94,47
+7,Customer 007,customer7@example.com,46,Male,New York,2023-05-24,7,2079.86,297.12,49
+8,Customer 008,customer8@example.com,63,Non-binary,San Diego,2024-08-14,9,3321.73,369.08,73
+9,Customer 009,customer9@example.com,54,Male,Chicago,2022-02-11,5,1949.64,389.93,6
+10,Customer 010,customer10@example.com,26,Non-binary,Austin,2024-07-02,4,1124.82,281.2,76
+11,Customer 011,customer11@example.com,42,Non-binary,Austin,2022-11-25,1,125.01,125.01,31
+12,Customer 012,customer12@example.com,62,Non-binary,Chicago,2023-11-24,6,1668.65,278.11,16
+13,Customer 013,customer13@example.com,67,Prefer not to say,San Diego,2024-07-22,4,1332.41,333.1,38
+14,Customer 014,customer14@example.com,67,Male,Atlanta,2025-01-26,8,2589.55,323.69,47
+15,Customer 015,customer15@example.com,52,Female,Boston,2024-10-14,4,1685.36,421.34,74
+16,Customer 016,customer16@example.com,67,Prefer not to say,Portland,2022-06-11,4,1255.22,313.8,68
+17,Customer 017,customer17@example.com,69,Male,San Diego,2025-11-24,6,1559.71,259.95,28
+18,Customer 018,customer18@example.com,42,Prefer not to say,Portland,2023-02-25,11,2502.91,227.54,73
+19,Customer 019,customer19@example.com,27,Prefer not to say,New York,2025-08-01,3,873.67,291.22,72
+20,Customer 020,customer20@example.com,58,Female,Austin,2025-01-17,5,1381.22,276.24,67
+21,Customer 021,customer21@example.com,70,Prefer not to say,Denver,2024-06-27,10,3100.62,310.06,6
+22,Customer 022,customer22@example.com,56,Non-binary,San Diego,2023-08-22,3,552.58,184.19,62
+23,Customer 023,customer23@example.com,63,Non-binary,New York,2023-04-21,10,2730.6,273.06,33
+24,Customer 024,customer24@example.com,31,Non-binary,Denver,2022-08-29,6,2274.53,379.09,25
+25,Customer 025,customer25@example.com,29,Prefer not to say,Chicago,2025-10-27,6,2242.46,373.74,14
+26,Customer 026,customer26@example.com,26,Non-binary,Atlanta,2024-05-03,7,1935.95,276.56,15
+27,Customer 027,customer27@example.com,35,Prefer not to say,New York,2022-11-17,7,1164.95,166.42,17
+28,Customer 028,customer28@example.com,44,Female,Miami,2026-06-03,6,2636.97,439.49,35
+29,Customer 029,customer29@example.com,20,Male,Seattle,2022-05-24,6,1901.28,316.88,67
+30,Customer 030,customer30@example.com,71,Prefer not to say,Chicago,2022-02-23,4,1165.39,291.35,65
+31,Customer 031,customer31@example.com,51,Prefer not to say,San Diego,2023-05-11,8,2390.86,298.86,3
+32,Customer 032,customer32@example.com,62,Female,Seattle,2025-09-10,6,2080.97,346.83,71
+33,Customer 033,customer33@example.com,39,Female,San Diego,2025-03-22,3,495.14,165.05,9
+34,Customer 034,customer34@example.com,42,Female,New York,2026-01-15,5,2138.27,427.65,40
+35,Customer 035,customer35@example.com,21,Non-binary,Chicago,2023-02-07,7,3745.12,535.02,70
+36,Customer 036,customer36@example.com,27,Non-binary,San Diego,2023-05-03,6,1673.84,278.97,12
+37,Customer 037,customer37@example.com,54,Prefer not to say,Miami,2023-06-02,8,2236.73,279.59,8
+38,Customer 038,customer38@example.com,25,Prefer not to say,Denver,2024-07-21,13,3386.81,260.52,40
+39,Customer 039,customer39@example.com,54,Prefer not to say,San Diego,2025-10-02,10,3545.19,354.52,10
+40,Customer 040,customer40@example.com,50,Female,Boston,2022-11-16,9,2267.17,251.91,60
+41,Customer 041,customer41@example.com,70,Female,Denver,2021-12-30,5,1224.53,244.91,74
+42,Customer 042,customer42@example.com,51,Female,Portland,2022-02-21,5,2136.25,427.25,64
+43,Customer 043,customer43@example.com,50,Female,Chicago,2024-07-24,13,2993.84,230.3,44
+44,Customer 044,customer44@example.com,28,Prefer not to say,New York,2023-03-30,8,2889.25,361.16,14
+45,Customer 045,customer45@example.com,60,Prefer not to say,Boston,2024-12-26,3,1140.1,380.03,71
+46,Customer 046,customer46@example.com,61,Female,Atlanta,2025-06-23,5,814.6,162.92,38
+47,Customer 047,customer47@example.com,20,Non-binary,Atlanta,2023-10-31,11,4512.18,410.2,51
+48,Customer 048,customer48@example.com,22,Female,Atlanta,2022-07-24,3,1347.68,449.23,77
+49,Customer 049,customer49@example.com,56,Prefer not to say,Atlanta,2022-05-13,4,1840.37,460.09,48
+50,Customer 050,customer50@example.com,55,Non-binary,Denver,2022-03-22,2,1147.32,573.66,28
+51,Customer 051,customer51@example.com,64,Female,Austin,2023-08-31,7,2290.82,327.26,41
+52,Customer 052,customer52@example.com,43,Non-binary,Atlanta,2024-07-08,5,1218.25,243.65,15
+53,Customer 053,customer53@example.com,70,Female,San Diego,2022-05-14,11,2471.32,224.67,56
+54,Customer 054,customer54@example.com,41,Female,Miami,2023-04-09,6,1354.04,225.67,9
+55,Customer 055,customer55@example.com,43,Non-binary,Portland,2025-05-10,4,1336.63,334.16,39
+56,Customer 056,customer56@example.com,31,Prefer not to say,Portland,2024-01-16,3,603.79,201.26,58
+57,Customer 057,customer57@example.com,38,Female,Seattle,2023-04-14,5,1475.91,295.18,63
+58,Customer 058,customer58@example.com,18,Female,Denver,2023-12-22,4,1210.31,302.58,68
+59,Customer 059,customer59@example.com,46,Non-binary,Portland,2025-12-18,4,1063.76,265.94,40
+60,Customer 060,customer60@example.com,25,Male,Denver,2024-08-25,5,634.82,126.96,65
+61,Customer 061,customer61@example.com,45,Male,Atlanta,2023-05-05,5,1534.52,306.9,67
+62,Customer 062,customer62@example.com,34,Non-binary,Atlanta,2026-05-29,7,2244.72,320.67,79
+63,Customer 063,customer63@example.com,61,Prefer not to say,San Diego,2023-03-27,4,1176.86,294.21,78
+64,Customer 064,customer64@example.com,62,Prefer not to say,San Diego,2023-05-29,2,707.65,353.82,24
+65,Customer 065,customer65@example.com,61,Prefer not to say,New York,2025-07-09,5,1018.65,203.73,80
+66,Customer 066,customer66@example.com,29,Female,Boston,2024-03-26,12,3232.46,269.37,9
+67,Customer 067,customer67@example.com,32,Prefer not to say,Seattle,2023-03-09,7,2621.92,374.56,52
+68,Customer 068,customer68@example.com,18,Male,Austin,2023-05-25,5,2639.16,527.83,51
+69,Customer 069,customer69@example.com,18,Prefer not to say,Boston,2022-05-18,5,1527.98,305.6,60
+70,Customer 070,customer70@example.com,58,Non-binary,Austin,2023-09-02,7,1585.17,226.45,53
+71,Customer 071,customer71@example.com,24,Female,Denver,2024-03-24,7,1757.53,251.08,72
+72,Customer 072,customer72@example.com,24,Male,Boston,2023-11-14,5,924.65,184.93,58
+73,Customer 073,customer73@example.com,56,Female,Denver,2023-08-06,6,1876.31,312.72,66
+74,Customer 074,customer74@example.com,38,Prefer not to say,Chicago,2024-10-06,8,2361.48,295.18,52
+75,Customer 075,customer75@example.com,72,Female,Seattle,2022-07-17,2,1006.62,503.31,64
+76,Customer 076,customer76@example.com,39,Female,Portland,2023-10-25,3,892.89,297.63,13
+77,Customer 077,customer77@example.com,40,Female,Denver,2023-01-13,8,1812.23,226.53,12
+78,Customer 078,customer78@example.com,56,Male,Atlanta,2022-12-04,4,796.68,199.17,28
+79,Customer 079,customer79@example.com,50,Non-binary,Portland,2023-09-25,5,1035.84,207.17,79
+80,Customer 080,customer80@example.com,25,Female,Portland,2022-07-03,6,1650.47,275.08,24
+81,Customer 081,customer81@example.com,49,Male,Denver,2023-02-11,10,3511.04,351.1,62
+82,Customer 082,customer82@example.com,18,Prefer not to say,San Diego,2025-03-21,6,2032.24,338.71,72
+83,Customer 083,customer83@example.com,41,Female,Miami,2026-03-06,7,3207.25,458.18,22
+84,Customer 084,customer84@example.com,55,Female,Chicago,2025-07-05,6,1951.13,325.19,12
+85,Customer 085,customer85@example.com,27,Male,Seattle,2026-02-07,4,1308.56,327.14,13
+86,Customer 086,customer86@example.com,26,Prefer not to say,Miami,2025-11-08,5,1468.51,293.7,55
+87,Customer 087,customer87@example.com,36,Male,Miami,2022-03-24,3,1203.96,401.32,13
+88,Customer 088,customer88@example.com,59,Non-binary,Austin,2026-05-03,3,1450.19,483.4,27
+89,Customer 089,customer89@example.com,69,Male,Miami,2026-01-10,6,2584.42,430.74,42
+90,Customer 090,customer90@example.com,67,Prefer not to say,Atlanta,2023-06-23,7,2008.81,286.97,75
+91,Customer 091,customer91@example.com,66,Non-binary,Atlanta,2023-08-17,6,1838.36,306.39,56
+92,Customer 092,customer92@example.com,58,Prefer not to say,Denver,2022-09-30,6,1348.11,224.68,54
+93,Customer 093,customer93@example.com,64,Prefer not to say,New York,2025-06-12,6,2789.18,464.86,43
+94,Customer 094,customer94@example.com,21,Prefer not to say,Austin,2024-01-28,9,2468.62,274.29,76
+95,Customer 095,customer95@example.com,25,Female,Miami,2024-02-01,3,486.67,162.22,9
+96,Customer 096,customer96@example.com,39,Male,Denver,2023-11-28,6,1328.58,221.43,68
+97,Customer 097,customer97@example.com,48,Female,Chicago,2025-06-04,6,1479.71,246.62,5
+98,Customer 098,customer98@example.com,52,Prefer not to say,Miami,2025-09-28,5,1925.77,385.15,22
+99,Customer 099,customer99@example.com,67,Non-binary,Austin,2026-04-10,4,2111.51,527.88,79
+100,Customer 100,customer100@example.com,37,Female,San Diego,2022-10-14,5,2017.31,403.46,2

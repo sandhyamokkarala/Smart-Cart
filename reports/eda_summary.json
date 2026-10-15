@@ -1,0 +1,51 @@
+{
+  "top_category":"Sports",
+  "top_products":{
+    "Foam Roller":8865.0,
+    "Yoga Mat":8625.2,
+    "Gym Duffle":8111.67,
+    "Insulated Bottle":6960.58,
+    "Training Tee":6863.04
+  },
+  "top_customers":{
+    "47":4512.18,
+    "1":3937.56,
+    "35":3745.12,
+    "39":3545.19,
+    "81":3511.04
+  },
+  "average_order_value":310.42,
+  "most_used_payment":"Card",
+  "top_city":"Denver",
+  "highest_rated_products":[
+    "Denim Jacket",
+    "Daily Face Cream",
+    "E-reader",
+    "Resistance Bands",
+    "Wireless Headphones"
+  ],
+  "repeat_customer_percent":99.0,
+  "monthly_revenue":{
+    "2025-10-01":7138.79,
+    "2025-11-01":15430.54,
+    "2025-12-01":16767.41,
+    "2026-01-01":17532.75,
+    "2026-02-01":17677.78,
+    "2026-03-01":13852.84,
+    "2026-04-01":17924.33,
+    "2026-05-01":12194.29,
+    "2026-06-01":14981.14,
+    "2026-07-01":20741.81,
+    "2026-08-01":10893.23,
+    "2026-09-01":11534.4,
+    "2026-10-01":5549.9
+  },
+  "low_stock_products":[
+    "Power Bank",
+    "Wireless Mouse",
+    "Oak Side Table",
+    "Canvas Tote",
+    "Leather Wallet",
+    "Mineral Sunscreen"
+  ]
+}

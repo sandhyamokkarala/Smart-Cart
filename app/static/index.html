@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f7f4">
+  <title>SmartCart | Everyday, thoughtfully chosen</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <div class="announcement">A little more thoughtful. A lot more you.</div>
+  <header class="site-header">
+    <a class="wordmark" href="/" aria-label="SmartCart home"><span class="mark">s</span>smartcart</a>
+    <nav class="desktop-nav" aria-label="Departments">
+      <a href="#shop" data-category="Electronics">Tech</a>
+      <a href="#shop" data-category="Home">Home</a>
+      <a href="#shop" data-category="Fashion">Style</a>
+      <a href="#shop" data-category="Beauty">Beauty</a>
+      <a href="#shop" data-category="Sports">Outdoors</a>
+    </nav>
+    <div class="header-actions">
+      <button class="text-button account-trigger" id="accountTrigger">Sign in</button>
+      <button class="cart-trigger" id="cartTrigger" aria-label="Open shopping bag">Bag <span id="cartCount">0</span></button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="heroTitle">
+      <img class="hero-image" src="https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=2200&q=90" alt="A considered edit of everyday wardrobe essentials">
+      <div class="hero-shade"></div>
+      <div class="hero-copy">
+        <p class="eyebrow light">GOOD FINDS, LESS FINDING</p>
+        <h1 id="heroTitle">SmartCart</h1>
+        <p>Everyday pieces, thoughtfully picked for your kind of life.</p>
+        <a class="button button-light" href="#shop">Explore the edit <span aria-hidden="true">↗</span></a>
+      </div>
+      <div class="hero-index"><span>01</span> / A BETTER EVERYDAY</div>
+    </section>
+
+    <section class="shop-section" id="shop">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">THE GOOD STUFF</p>
+          <h2>Find your next favorite.</h2>
+        </div>
+        <div class="shop-controls">
+          <label class="search-field"><span class="sr-only">Search products</span><input id="searchInput" type="search" placeholder="Search the shop"><kbd>/</kbd></label>
+          <label class="sr-only" for="categoryFilter">Filter by category</label>
+          <select id="categoryFilter" aria-label="Filter by category">
+            <option value="">All departments</option>
+            <option>Electronics</option><option>Home</option><option>Fashion</option><option>Beauty</option><option>Sports</option>
+          </select>
+        </div>
+      </div>
+      <div class="category-strip" aria-label="Shop by department">
+        <button class="category-chip selected" data-filter="">Everything <span>05</span></button>
+        <button class="category-chip" data-filter="Electronics">Tech <span>01</span></button>
+        <button class="category-chip" data-filter="Home">Home <span>02</span></button>
+        <button class="category-chip" data-filter="Fashion">Style <span>03</span></button>
+        <button class="category-chip" data-filter="Beauty">Beauty <span>04</span></button>
+        <button class="category-chip" data-filter="Sports">Outdoors <span>05</span></button>
+      </div>
+      <div class="results-line"><span id="resultCount">Loading the edit…</span><span>Good things, in stock</span></div>
+      <div class="product-grid" id="productGrid" aria-live="polite"></div>
+      <p class="empty-state" id="emptyState" hidden>No finds here yet. Try another search.</p>
+    </section>
+
+    <section class="personal-section" id="personalSection">
+      <div class="personal-copy">
+        <p class="eyebrow light">A LITTLE MORE PERSONAL</p>
+        <h2>Picked up where<br>you left off.</h2>
+        <p id="personalMessage">Sign in to see a short list shaped around what you love.</p>
+        <button class="button button-outline" id="personalAction">Make it personal <span aria-hidden="true">↗</span></button>
+      </div>
+      <div class="personal-products" id="recommendationGrid"></div>
+      <div class="personal-art" role="img" aria-label="Sculptural everyday objects arranged in sunlight"></div>
+    </section>
+    <section class="service-strip" aria-label="Shopping details">
+      <div><span class="service-number">01</span><strong>Thoughtful finds</strong><p>Useful things with a little more care.</p></div>
+      <div><span class="service-number">02</span><strong>Made for your rhythm</strong><p>A shop that gets more personal over time.</p></div>
+      <div><span class="service-number">03</span><strong>Easy checkout</strong><p>Your bag, your call, no fuss.</p></div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><a class="wordmark footer-mark" href="/"> <span class="mark">s</span>smartcart</a><span>Good things for real life.</span><span>© 2026 SmartCart</span></footer>
+
+  <div class="scrim" id="scrim"></div>
+  <aside class="side-panel cart-panel" id="cartPanel" aria-labelledby="cartTitle" aria-hidden="true">
+    <div class="panel-head"><div><p class="eyebrow">YOUR PICKS</p><h2 id="cartTitle">The bag</h2></div><button class="close-button" data-close aria-label="Close bag">×</button></div>
+    <div class="cart-items" id="cartItems"></div>
+    <div class="cart-bottom"><div class="cart-total"><span>Estimated total</span><strong id="cartTotal">$0.00</strong></div><label class="payment-field">Payment<select id="paymentMethod"><option>Card</option><option>PayPal</option><option>Apple Pay</option><option>Bank Transfer</option></select></label><button class="button button-dark checkout-button" id="checkoutButton">Checkout <span aria-hidden="true">↗</span></button><p class="fine-print">Shipping and taxes calculated at checkout.</p></div>
+  </aside>
+  <aside class="side-panel account-panel" id="accountPanel" aria-labelledby="accountTitle" aria-hidden="true">
+    <div class="panel-head"><div><p class="eyebrow">YOUR SMARTCART</p><h2 id="accountTitle">Your account</h2></div><button class="close-button" data-close aria-label="Close account">×</button></div>
+    <div id="accountContent"></div>
+  </aside>
+  <aside class="side-panel product-panel" id="productPanel" aria-labelledby="productTitle" aria-hidden="true">
+    <div class="panel-head"><div><p class="eyebrow">A CLOSER LOOK</p><h2 id="productTitle">Product details</h2></div><button class="close-button" data-close aria-label="Close product details">×</button></div>
+    <div id="productDetail"></div>
+  </aside>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="/static/app.js" defer></script>
+</body>
+</html>

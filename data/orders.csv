@@ -1,0 +1,601 @@
+order_id,customer_id,product_id,quantity,order_date,price,payment_method,order_status
+1,81,48,1,2026-02-23,195.63,Card,completed
+2,84,25,1,2026-05-12,54.09,PayPal,completed
+3,94,20,1,2026-02-21,35.05,Card,completed
+4,21,25,1,2026-09-20,54.09,Bank Transfer,completed
+5,67,35,1,2026-03-06,436.81,PayPal,completed
+6,18,9,1,2026-07-10,173.53,Card,completed
+7,38,16,1,2025-12-09,286.47,Apple Pay,shipped
+8,18,29,1,2026-02-06,116.27,PayPal,completed
+9,76,25,1,2026-03-26,54.09,PayPal,completed
+10,20,39,1,2026-09-04,388.69,Card,completed
+11,47,41,2,2026-01-09,431.26,PayPal,shipped
+12,18,12,2,2026-01-08,118.44,Bank Transfer,completed
+13,38,48,2,2026-09-20,195.63,Card,completed
+14,25,25,2,2025-11-20,54.09,Card,completed
+15,85,41,1,2026-07-03,431.26,Bank Transfer,completed
+16,8,29,2,2026-03-02,116.27,PayPal,shipped
+17,72,2,1,2026-04-14,184.87,Card,completed
+18,54,18,1,2026-03-10,34.74,Card,completed
+19,86,16,1,2026-03-26,286.47,PayPal,completed
+20,71,36,1,2026-03-13,71.57,Card,shipped
+21,24,15,1,2025-12-10,167.57,Card,completed
+22,3,24,2,2026-02-23,441.06,Card,completed
+23,27,48,1,2026-02-28,195.63,PayPal,completed
+24,27,21,1,2026-06-22,54.01,PayPal,completed
+25,42,39,1,2026-08-12,388.69,Card,shipped
+26,9,42,1,2026-02-02,316.39,Apple Pay,completed
+27,90,10,1,2026-09-06,170.65,PayPal,completed
+28,68,26,1,2026-07-24,451.12,Bank Transfer,completed
+29,74,16,1,2025-12-12,286.47,Card,completed
+30,21,31,1,2025-12-12,373.84,PayPal,completed
+31,18,20,1,2026-07-30,35.05,PayPal,completed
+32,23,44,1,2025-11-12,97.87,Card,completed
+33,57,7,1,2026-04-25,138.63,Card,completed
+34,15,44,1,2026-06-04,97.87,PayPal,completed
+35,41,44,1,2026-03-25,97.87,Card,cancelled
+36,60,19,1,2026-10-07,298.38,PayPal,completed
+37,62,15,1,2026-08-01,167.57,Apple Pay,completed
+38,41,8,1,2025-10-28,101.27,PayPal,shipped
+39,23,36,2,2026-08-19,71.57,Card,completed
+40,80,42,2,2026-04-06,316.39,PayPal,completed
+41,43,31,2,2026-04-03,373.84,PayPal,completed
+42,84,46,2,2026-04-21,386.27,Card,completed
+43,21,25,1,2025-10-31,54.09,Card,completed
+44,43,25,1,2026-03-12,54.09,PayPal,completed
+45,1,34,1,2026-08-30,125.01,Apple Pay,completed
+46,72,23,1,2026-02-01,154.29,Apple Pay,shipped
+47,18,47,2,2026-05-19,303.91,Card,completed
+48,94,27,1,2026-03-11,150.38,Card,completed
+49,77,29,1,2026-03-20,116.27,Card,completed
+50,81,17,1,2026-04-13,430.92,Card,completed
+51,72,17,1,2026-07-11,430.92,Bank Transfer,completed
+52,83,25,1,2025-11-24,54.09,Apple Pay,completed
+53,20,13,1,2026-01-16,14.78,Card,completed
+54,37,23,1,2026-07-08,154.29,Card,completed
+55,29,42,1,2026-07-16,316.39,PayPal,completed
+56,93,46,3,2026-02-12,386.27,Card,completed
+57,53,21,1,2026-09-23,54.01,Apple Pay,completed
+58,44,15,1,2026-06-05,167.57,Card,completed
+59,39,34,2,2026-02-20,125.01,Apple Pay,completed
+60,89,42,2,2026-02-15,316.39,PayPal,shipped
+61,84,30,1,2026-05-30,342.92,Apple Pay,shipped
+62,77,45,1,2026-07-20,354.6,Apple Pay,completed
+63,65,7,2,2026-03-27,138.63,Bank Transfer,completed
+64,18,28,1,2026-01-01,392.05,Card,cancelled
+65,38,12,1,2025-11-22,118.44,Apple Pay,shipped
+66,9,17,2,2026-06-30,430.92,Card,shipped
+67,18,13,1,2026-07-24,14.78,PayPal,completed
+68,30,11,1,2026-03-26,467.96,Card,completed
+69,73,13,1,2026-01-21,14.78,PayPal,completed
+70,82,29,1,2025-12-25,116.27,Apple Pay,shipped
+71,42,50,1,2026-07-15,428.94,Apple Pay,completed
+72,77,2,1,2026-06-02,184.87,Apple Pay,completed
+73,50,49,1,2025-10-26,289.44,Card,completed
+74,86,9,1,2026-01-17,173.53,Card,completed
+75,37,49,1,2026-06-29,289.44,Card,completed
+76,39,11,1,2026-08-17,467.96,Card,completed
+77,6,2,1,2026-03-15,184.87,Apple Pay,completed
+78,10,29,1,2025-11-04,116.27,PayPal,shipped
+79,69,32,2,2026-02-10,312.17,Card,completed
+80,38,21,1,2026-03-17,54.01,Apple Pay,completed
+81,74,37,1,2025-11-08,294.06,Apple Pay,shipped
+82,73,9,1,2025-11-17,173.53,PayPal,completed
+83,7,13,1,2025-12-26,14.78,Card,completed
+84,95,25,1,2026-07-26,54.09,Card,completed
+85,82,44,2,2026-01-14,97.87,Card,completed
+86,70,1,1,2025-12-15,131.89,Card,completed
+87,17,27,1,2026-02-17,150.38,Card,completed
+88,96,8,2,2026-04-03,101.27,Card,completed
+89,66,44,3,2026-01-22,97.87,Card,completed
+90,26,48,1,2026-01-10,195.63,PayPal,completed
+91,76,38,1,2026-02-23,411.61,Card,completed
+92,26,29,1,2025-11-06,116.27,Bank Transfer,completed
+93,76,22,1,2025-12-07,427.19,PayPal,completed
+94,14,7,1,2026-08-11,138.63,Apple Pay,completed
+95,89,8,1,2026-01-03,101.27,Card,completed
+96,42,24,1,2026-03-08,441.06,PayPal,completed
+97,32,48,1,2026-02-03,195.63,Apple Pay,completed
+98,12,32,1,2026-03-10,312.17,PayPal,cancelled
+99,15,26,1,2026-03-13,451.12,Card,completed
+100,38,49,1,2026-02-03,289.44,Card,completed
+101,17,8,1,2026-02-20,101.27,Card,completed
+102,99,28,3,2025-12-01,392.05,Card,completed
+103,80,4,1,2026-07-13,325.34,Apple Pay,completed
+104,24,29,1,2025-12-22,116.27,Bank Transfer,completed
+105,53,44,2,2026-06-24,97.87,PayPal,completed
+106,29,34,2,2026-01-06,125.01,Card,shipped
+107,36,40,1,2026-09-29,80.26,Card,completed
+108,60,16,1,2026-01-24,286.47,Apple Pay,cancelled
+109,71,50,1,2026-08-13,428.94,PayPal,completed
+110,15,31,2,2026-06-08,373.84,Bank Transfer,completed
+111,16,27,2,2026-05-17,150.38,PayPal,shipped
+112,1,28,1,2026-05-01,392.05,Card,completed
+113,77,44,1,2025-10-19,97.87,Apple Pay,shipped
+114,84,22,1,2026-03-18,427.19,PayPal,completed
+115,79,38,1,2026-08-29,411.61,PayPal,completed
+116,39,17,1,2026-02-01,430.92,Card,completed
+117,65,13,1,2026-05-05,14.78,PayPal,completed
+118,5,2,1,2026-10-04,184.87,PayPal,completed
+119,54,27,1,2026-08-21,150.38,Card,completed
+120,81,39,1,2025-12-30,388.69,Bank Transfer,completed
+121,83,12,1,2026-02-24,118.44,PayPal,completed
+122,50,50,2,2026-04-22,428.94,Card,completed
+123,9,7,1,2025-12-20,138.63,Card,shipped
+124,36,20,1,2025-11-08,35.05,Card,shipped
+125,66,25,1,2026-10-03,54.09,PayPal,completed
+126,14,41,1,2026-07-12,431.26,Bank Transfer,shipped
+127,18,38,1,2026-03-26,411.61,Card,completed
+128,66,28,1,2025-11-30,392.05,Card,completed
+129,66,37,1,2026-03-04,294.06,PayPal,completed
+130,44,7,1,2025-12-29,138.63,Card,completed
+131,59,33,1,2025-12-02,398.19,Card,completed
+132,66,11,1,2026-07-10,467.96,PayPal,completed
+133,97,20,1,2025-11-11,35.05,PayPal,completed
+134,40,19,1,2026-06-16,298.38,Bank Transfer,completed
+135,25,19,1,2026-06-24,298.38,PayPal,shipped
+136,17,42,2,2026-02-09,316.39,PayPal,completed
+137,89,11,1,2026-06-03,467.96,Card,completed
+138,75,42,2,2026-04-01,316.39,Card,completed
+139,53,14,1,2026-05-30,261.63,Card,completed
+140,65,9,1,2026-06-11,173.53,PayPal,shipped
+141,47,33,1,2026-08-07,398.19,Card,shipped
+142,26,34,1,2025-11-07,125.01,Card,completed
+143,49,22,1,2026-01-17,427.19,Apple Pay,shipped
+144,80,2,2,2026-07-13,184.87,Apple Pay,completed
+145,40,2,1,2026-06-15,184.87,Card,shipped
+146,92,34,1,2025-12-11,125.01,Card,completed
+147,10,6,1,2026-05-29,350.86,Card,shipped
+148,78,32,1,2026-06-08,312.17,Card,completed
+149,51,25,1,2026-09-06,54.09,Card,shipped
+150,86,43,1,2026-04-20,203.75,Card,completed
+151,19,40,3,2026-01-26,80.26,PayPal,completed
+152,62,9,1,2026-08-19,173.53,PayPal,completed
+153,33,10,1,2025-12-02,170.65,Apple Pay,completed
+154,94,46,1,2026-06-29,386.27,Apple Pay,completed
+155,79,12,1,2026-04-01,118.44,Apple Pay,completed
+156,1,45,2,2026-07-12,354.6,Card,completed
+157,94,34,1,2026-05-20,125.01,Card,shipped
+158,28,46,1,2026-08-18,386.27,Apple Pay,completed
+159,51,44,2,2026-05-18,97.87,Apple Pay,completed
+160,10,10,2,2025-12-03,170.65,Card,completed
+161,92,20,2,2026-02-01,35.05,Card,completed
+162,32,7,1,2025-11-14,138.63,Apple Pay,cancelled
+163,55,24,1,2025-10-21,441.06,Card,completed
+164,33,20,1,2026-10-07,35.05,Card,completed
+165,63,36,1,2026-01-02,71.57,Card,completed
+166,54,20,1,2026-02-14,35.05,PayPal,completed
+167,62,41,1,2026-08-15,431.26,Card,shipped
+168,34,48,1,2026-02-26,195.63,Apple Pay,completed
+169,14,50,1,2025-11-04,428.94,Card,completed
+170,84,21,1,2026-05-24,54.01,PayPal,completed
+171,73,47,2,2026-04-19,303.91,Apple Pay,completed
+172,18,9,1,2026-01-14,173.53,PayPal,completed
+173,71,47,1,2026-08-26,303.91,Card,completed
+174,14,30,1,2026-02-22,342.92,Card,completed
+175,18,33,1,2026-04-05,398.19,PayPal,completed
+176,8,15,1,2026-01-27,167.57,Card,completed
+177,90,20,1,2026-08-13,35.05,Card,shipped
+178,2,36,1,2026-01-24,71.57,Card,completed
+179,94,15,1,2026-06-16,167.57,Card,completed
+180,68,18,1,2026-03-27,34.74,Bank Transfer,completed
+181,68,35,3,2025-11-16,436.81,Card,completed
+182,77,7,1,2025-12-23,138.63,PayPal,completed
+183,59,34,1,2026-03-07,125.01,Bank Transfer,completed
+184,88,8,3,2026-04-22,101.27,Apple Pay,completed
+185,7,34,2,2025-11-27,125.01,Apple Pay,completed
+186,43,23,1,2026-06-29,154.29,Card,completed
+187,93,30,1,2026-03-13,342.92,Card,completed
+188,97,22,1,2026-02-17,427.19,Apple Pay,shipped
+189,28,16,2,2026-01-01,286.47,Card,shipped
+190,63,4,1,2026-05-15,325.34,PayPal,shipped
+191,47,28,2,2026-10-03,392.05,Card,completed
+192,71,13,1,2026-07-03,14.78,Card,completed
+193,46,30,1,2025-12-11,342.92,Card,shipped
+194,11,34,1,2026-08-21,125.01,Apple Pay,completed
+195,51,14,1,2026-02-27,261.63,Card,shipped
+196,81,17,2,2026-10-02,430.92,PayPal,completed
+197,83,39,3,2026-07-01,388.69,Apple Pay,completed
+198,12,15,1,2026-08-02,167.57,Card,completed
+199,52,41,1,2026-03-31,431.26,Card,completed
+200,35,25,2,2026-04-03,54.09,Card,completed
+201,92,20,1,2026-09-28,35.05,Apple Pay,completed
+202,35,11,2,2026-07-03,467.96,Bank Transfer,completed
+203,100,7,1,2026-05-03,138.63,Card,completed
+204,65,35,1,2026-06-28,436.81,Apple Pay,shipped
+205,77,38,1,2026-01-07,411.61,Card,completed
+206,41,37,1,2026-04-27,294.06,Bank Transfer,completed
+207,28,41,1,2026-07-25,431.26,PayPal,completed
+208,32,44,1,2026-01-20,97.87,Card,completed
+209,29,41,1,2026-04-19,431.26,Card,completed
+210,91,29,1,2026-08-10,116.27,Card,shipped
+211,89,30,2,2026-05-03,342.92,Card,completed
+212,47,5,1,2026-01-20,207.77,Card,shipped
+213,94,45,2,2026-07-12,354.6,Apple Pay,shipped
+214,49,42,1,2026-09-08,316.39,Apple Pay,cancelled
+215,48,30,1,2026-01-12,342.92,Card,completed
+216,32,32,2,2025-10-24,312.17,PayPal,completed
+217,38,42,1,2026-04-06,316.39,Apple Pay,completed
+218,82,43,2,2025-12-25,203.75,Card,completed
+219,7,7,1,2026-09-17,138.63,Card,shipped
+220,47,2,1,2025-12-17,184.87,Bank Transfer,completed
+221,69,12,2,2026-05-14,118.44,Card,completed
+222,41,37,1,2026-03-16,294.06,Apple Pay,completed
+223,93,49,1,2026-03-18,289.44,PayPal,completed
+224,39,45,2,2025-12-03,354.6,PayPal,shipped
+225,53,24,1,2026-02-04,441.06,Apple Pay,completed
+226,97,39,1,2026-01-16,388.69,Card,completed
+227,16,34,1,2026-09-01,125.01,Card,completed
+228,7,35,1,2025-11-13,436.81,Card,completed
+229,80,25,1,2026-09-15,54.09,Card,shipped
+230,93,12,1,2026-01-29,118.44,Card,shipped
+231,78,44,1,2025-11-12,97.87,PayPal,completed
+232,63,48,2,2026-06-30,195.63,PayPal,completed
+233,74,49,1,2026-06-18,289.44,Card,completed
+234,14,38,1,2025-10-31,411.61,Card,shipped
+235,81,37,2,2026-06-07,294.06,Card,completed
+236,90,15,1,2026-07-23,167.57,PayPal,completed
+237,23,47,2,2025-11-05,303.91,Card,completed
+238,81,45,1,2026-06-10,354.6,Card,completed
+239,47,50,1,2026-09-17,428.94,Card,completed
+240,62,50,1,2026-02-17,428.94,Card,completed
+241,8,41,1,2026-02-04,431.26,Card,completed
+242,24,38,1,2026-08-07,411.61,Card,completed
+243,52,34,3,2026-09-02,125.01,PayPal,completed
+244,31,12,1,2026-08-13,118.44,Card,completed
+245,2,47,1,2026-02-18,303.91,PayPal,completed
+246,34,45,2,2025-10-27,354.6,Apple Pay,completed
+247,4,24,2,2026-04-17,441.06,Apple Pay,completed
+248,1,37,2,2026-04-11,294.06,Bank Transfer,completed
+249,1,9,1,2026-07-20,173.53,PayPal,completed
+250,67,13,2,2026-07-15,14.78,Card,completed
+251,93,49,3,2026-08-19,289.44,Card,cancelled
+252,53,23,1,2026-08-24,154.29,Card,completed
+253,28,50,2,2026-09-01,428.94,Apple Pay,completed
+254,6,12,2,2026-08-28,118.44,Apple Pay,completed
+255,3,29,1,2026-07-27,116.27,Apple Pay,shipped
+256,89,19,1,2026-05-03,298.38,Card,completed
+257,21,10,1,2026-03-12,170.65,PayPal,completed
+258,61,7,1,2026-03-15,138.63,PayPal,shipped
+259,98,15,3,2026-07-23,167.57,Card,cancelled
+260,61,45,1,2025-10-29,354.6,Card,shipped
+261,13,15,1,2025-11-27,167.57,Bank Transfer,shipped
+262,66,18,1,2026-01-24,34.74,Card,completed
+263,82,24,2,2026-06-17,441.06,Apple Pay,completed
+264,70,5,1,2026-01-24,207.77,Apple Pay,completed
+265,55,45,2,2025-11-16,354.6,Apple Pay,completed
+266,94,19,1,2026-06-16,298.38,Bank Transfer,shipped
+267,12,47,1,2026-01-02,303.91,Card,completed
+268,96,7,1,2026-01-15,138.63,PayPal,completed
+269,99,30,1,2026-01-31,342.92,Apple Pay,completed
+270,23,40,2,2026-05-07,80.26,Card,completed
+271,37,31,1,2026-07-27,373.84,PayPal,completed
+272,43,42,1,2026-06-29,316.39,Card,completed
+273,29,24,1,2026-06-18,441.06,Card,completed
+274,100,46,1,2026-04-29,386.27,Card,shipped
+275,51,16,1,2026-08-05,286.47,Apple Pay,completed
+276,25,27,1,2026-07-15,150.38,PayPal,shipped
+277,47,42,1,2026-08-10,316.39,Card,completed
+278,65,29,1,2026-07-23,116.27,Card,shipped
+279,58,3,1,2026-02-15,300.38,PayPal,completed
+280,44,13,1,2026-07-09,14.78,Card,completed
+281,56,36,2,2026-09-17,71.57,Apple Pay,completed
+282,2,40,1,2026-05-05,80.26,PayPal,completed
+283,29,27,1,2026-06-22,150.38,PayPal,completed
+284,22,7,2,2026-03-25,138.63,Apple Pay,completed
+285,13,32,1,2026-01-23,312.17,Card,completed
+286,20,48,1,2026-06-30,195.63,Card,completed
+287,49,29,3,2026-05-19,116.27,Card,completed
+288,86,31,1,2025-11-17,373.84,PayPal,completed
+289,82,32,1,2026-06-18,312.17,Apple Pay,completed
+290,74,44,1,2026-03-23,97.87,Card,completed
+291,7,37,2,2026-01-04,294.06,Bank Transfer,completed
+292,43,42,1,2026-01-01,316.39,Apple Pay,completed
+293,70,38,1,2026-04-27,411.61,Card,completed
+294,19,49,2,2025-10-16,289.44,Card,completed
+295,81,15,1,2026-09-23,167.57,PayPal,completed
+296,99,43,1,2026-09-16,203.75,Bank Transfer,completed
+297,6,46,2,2026-05-11,386.27,PayPal,completed
+298,39,45,1,2025-12-22,354.6,PayPal,completed
+299,23,50,1,2026-03-20,428.94,Card,shipped
+300,40,27,1,2026-05-06,150.38,Card,completed
+301,23,26,1,2026-02-01,451.12,Card,completed
+302,85,41,1,2025-12-23,431.26,PayPal,shipped
+303,56,19,1,2026-08-17,298.38,Card,completed
+304,51,37,2,2026-09-01,294.06,Card,completed
+305,52,27,1,2025-12-02,150.38,Card,completed
+306,38,33,1,2026-06-13,398.19,Apple Pay,completed
+307,95,36,2,2026-08-22,71.57,Bank Transfer,completed
+308,90,39,1,2026-09-16,388.69,PayPal,completed
+309,87,14,2,2026-02-07,261.63,PayPal,completed
+310,26,31,1,2025-12-09,373.84,Card,completed
+311,100,41,1,2026-01-17,431.26,Bank Transfer,completed
+312,15,39,1,2025-11-03,388.69,Card,shipped
+313,61,19,1,2026-04-20,298.38,Apple Pay,completed
+314,84,3,1,2026-08-17,300.38,Card,completed
+315,57,24,1,2026-10-13,441.06,Apple Pay,completed
+316,44,11,1,2025-11-08,467.96,PayPal,completed
+317,60,20,1,2025-12-09,35.05,Apple Pay,completed
+318,60,18,1,2026-07-17,34.74,Bank Transfer,completed
+319,43,25,3,2026-06-15,54.09,Card,shipped
+320,57,15,1,2026-08-26,167.57,Apple Pay,completed
+321,87,48,2,2026-06-12,195.63,Card,shipped
+322,17,46,1,2026-04-01,386.27,Apple Pay,completed
+323,74,44,2,2026-08-13,97.87,PayPal,completed
+324,6,21,1,2026-05-28,54.01,Card,completed
+325,49,24,1,2025-12-12,441.06,PayPal,completed
+326,73,50,1,2026-01-02,428.94,Apple Pay,completed
+327,73,3,1,2026-07-31,300.38,Card,shipped
+328,25,12,1,2026-04-28,118.44,PayPal,completed
+329,55,29,1,2026-03-30,116.27,Bank Transfer,completed
+330,19,21,1,2026-08-23,54.01,Card,shipped
+331,8,10,1,2025-11-23,170.65,Apple Pay,completed
+332,27,13,1,2026-03-28,14.78,Card,completed
+333,53,34,1,2026-07-16,125.01,Card,completed
+334,78,14,1,2025-11-11,261.63,Card,completed
+335,88,46,2,2026-07-07,386.27,Card,completed
+336,66,23,1,2026-05-15,154.29,Card,completed
+337,2,1,1,2026-01-15,131.89,Card,cancelled
+338,48,27,1,2026-08-06,150.38,PayPal,completed
+339,32,3,2,2026-04-05,300.38,Card,completed
+340,58,11,1,2026-09-19,467.96,Card,completed
+341,71,20,1,2025-12-08,35.05,PayPal,completed
+342,47,33,2,2026-07-14,398.19,Apple Pay,completed
+343,74,24,1,2026-09-17,441.06,PayPal,completed
+344,85,41,1,2026-07-10,431.26,Apple Pay,completed
+345,60,27,1,2026-08-17,150.38,Card,completed
+346,18,27,1,2026-05-05,150.38,Card,shipped
+347,24,6,1,2026-01-07,350.86,Card,completed
+348,35,31,2,2026-07-17,373.84,Bank Transfer,completed
+349,26,15,2,2026-04-14,167.57,Bank Transfer,completed
+350,83,38,2,2026-05-03,411.61,Apple Pay,completed
+351,26,18,3,2026-04-28,34.74,PayPal,completed
+352,94,19,1,2026-09-20,298.38,Apple Pay,completed
+353,38,29,1,2026-04-20,116.27,Card,completed
+354,21,48,1,2026-10-10,195.63,Card,shipped
+355,43,21,1,2026-05-04,54.01,Card,completed
+356,68,41,1,2026-04-06,431.26,Apple Pay,shipped
+357,43,34,1,2026-01-07,125.01,PayPal,completed
+358,95,49,1,2025-10-27,289.44,Card,completed
+359,57,1,1,2026-10-13,131.89,PayPal,completed
+360,72,13,2,2026-08-24,14.78,Card,completed
+361,47,37,1,2025-11-18,294.06,Card,completed
+362,39,43,2,2026-04-11,203.75,PayPal,completed
+363,30,1,1,2026-01-26,131.89,Bank Transfer,completed
+364,46,40,2,2026-04-30,80.26,Card,completed
+365,9,42,1,2026-04-20,316.39,Card,completed
+366,16,41,1,2025-12-10,431.26,Card,completed
+367,45,25,1,2026-07-30,54.09,Card,shipped
+368,97,46,1,2026-04-30,386.27,Card,completed
+369,42,37,2,2026-04-16,294.06,Card,completed
+370,66,41,1,2026-04-10,431.26,Card,shipped
+371,21,49,3,2026-02-22,289.44,Card,shipped
+372,87,49,1,2026-07-22,289.44,Card,shipped
+373,98,30,1,2025-11-23,342.92,Card,completed
+374,71,48,3,2025-12-28,195.63,Card,shipped
+375,59,23,1,2026-09-27,154.29,Apple Pay,completed
+376,6,6,1,2026-02-17,350.86,Apple Pay,completed
+377,73,6,1,2026-07-31,350.86,Card,completed
+378,100,32,2,2025-12-29,312.17,PayPal,completed
+379,42,49,1,2026-05-05,289.44,PayPal,completed
+380,53,42,1,2026-02-22,316.39,Card,shipped
+381,23,27,1,2026-04-24,150.38,Card,completed
+382,92,27,1,2026-09-26,150.38,Bank Transfer,completed
+383,97,5,1,2026-01-08,207.77,Card,shipped
+384,34,3,1,2026-02-19,300.38,Card,completed
+385,21,46,1,2026-05-27,386.27,Card,completed
+386,74,10,2,2026-07-26,170.65,Card,shipped
+387,37,28,1,2026-03-06,392.05,Card,completed
+388,27,50,1,2026-01-24,428.94,Card,completed
+389,16,33,1,2026-09-13,398.19,Card,completed
+390,70,25,2,2026-03-24,54.09,Card,completed
+391,77,36,1,2026-08-20,71.57,PayPal,completed
+392,94,19,1,2025-10-14,298.38,PayPal,completed
+393,81,23,1,2026-07-02,154.29,Apple Pay,completed
+394,31,7,1,2025-12-22,138.63,PayPal,completed
+395,45,3,3,2026-03-25,300.38,Card,completed
+396,6,8,1,2026-09-18,101.27,Apple Pay,shipped
+397,79,10,1,2026-02-28,170.65,Card,completed
+398,44,1,3,2026-07-31,131.89,PayPal,completed
+399,51,11,1,2025-12-08,467.96,PayPal,completed
+400,12,19,2,2025-11-17,298.38,Bank Transfer,completed
+401,54,39,1,2026-01-11,388.69,Apple Pay,completed
+402,17,27,1,2026-06-02,150.38,Bank Transfer,completed
+403,45,2,1,2026-01-11,184.87,Bank Transfer,completed
+404,5,44,1,2025-11-10,97.87,PayPal,completed
+405,91,8,1,2026-01-15,101.27,PayPal,completed
+406,83,35,1,2026-07-18,436.81,PayPal,completed
+407,40,25,2,2026-10-11,54.09,Card,completed
+408,39,27,1,2025-11-28,150.38,PayPal,completed
+409,91,4,1,2026-10-11,325.34,Card,completed
+410,27,12,1,2026-07-08,118.44,Apple Pay,completed
+411,12,5,1,2026-08-15,207.77,Card,completed
+412,31,26,1,2026-04-19,451.12,Card,completed
+413,8,6,1,2025-11-20,350.86,Card,completed
+414,61,28,1,2025-12-19,392.05,Card,completed
+415,41,18,3,2026-05-11,34.74,PayPal,completed
+416,14,43,1,2026-05-12,203.75,Card,completed
+417,66,47,1,2026-09-04,303.91,Card,completed
+418,79,15,1,2026-01-10,167.57,Card,completed
+419,48,22,2,2026-10-12,427.19,PayPal,completed
+420,13,24,1,2025-11-08,441.06,Apple Pay,completed
+421,67,33,1,2026-01-11,398.19,Card,completed
+422,24,22,2,2025-12-09,427.19,Card,completed
+423,77,35,1,2025-12-04,436.81,Apple Pay,completed
+424,40,16,1,2026-01-21,286.47,Bank Transfer,completed
+425,71,42,1,2026-07-15,316.39,Card,completed
+426,53,12,1,2026-02-27,118.44,PayPal,completed
+427,20,41,1,2026-03-15,431.26,Card,completed
+428,36,11,1,2026-05-17,467.96,Card,completed
+429,66,31,1,2026-09-25,373.84,Card,completed
+430,1,17,1,2026-04-05,430.92,Card,completed
+431,75,31,1,2026-09-21,373.84,PayPal,completed
+432,33,49,1,2026-06-13,289.44,PayPal,completed
+433,97,18,1,2026-05-01,34.74,PayPal,shipped
+434,53,25,2,2026-08-16,54.09,Bank Transfer,completed
+435,32,5,1,2026-07-13,207.77,Card,completed
+436,92,39,1,2026-07-26,388.69,Bank Transfer,completed
+437,2,34,2,2026-03-28,125.01,Card,completed
+438,57,19,2,2025-10-17,298.38,Card,completed
+439,47,25,1,2026-07-24,54.09,PayPal,completed
+440,37,9,1,2025-10-18,173.53,PayPal,completed
+441,40,12,1,2025-10-25,118.44,PayPal,completed
+442,51,35,1,2026-07-15,436.81,PayPal,completed
+443,64,42,1,2025-11-20,316.39,Card,completed
+444,92,49,2,2026-07-16,289.44,Card,completed
+445,35,45,3,2026-05-29,354.6,Bank Transfer,completed
+446,40,36,1,2026-01-28,71.57,Card,completed
+447,81,45,1,2025-11-13,354.6,Card,completed
+448,43,12,3,2026-07-31,118.44,Card,completed
+449,9,42,1,2026-05-24,316.39,Apple Pay,completed
+450,74,5,2,2026-03-25,207.77,Apple Pay,completed
+451,6,37,2,2026-08-01,294.06,Card,shipped
+452,31,43,1,2026-04-16,203.75,Card,completed
+453,27,12,2,2026-06-30,118.44,Card,completed
+454,53,33,1,2026-03-18,398.19,PayPal,completed
+455,69,7,1,2025-12-05,138.63,PayPal,completed
+456,66,27,2,2026-07-10,150.38,Card,completed
+457,12,2,1,2026-05-16,184.87,PayPal,completed
+458,37,13,1,2026-05-30,14.78,Card,completed
+459,44,11,1,2026-09-07,467.96,Card,completed
+460,54,26,1,2025-11-05,451.12,PayPal,completed
+461,21,20,2,2026-07-20,35.05,PayPal,completed
+462,31,17,1,2025-11-24,430.92,Card,completed
+463,12,5,1,2026-03-10,207.77,Card,completed
+464,69,9,1,2025-12-10,173.53,PayPal,completed
+465,96,32,1,2026-07-05,312.17,PayPal,shipped
+466,52,36,2,2026-05-15,71.57,Card,completed
+467,38,33,1,2026-03-12,398.19,Card,completed
+468,78,34,1,2026-07-23,125.01,PayPal,shipped
+469,14,48,1,2026-07-27,195.63,Card,completed
+470,1,45,1,2026-02-21,354.6,Card,completed
+471,55,20,2,2025-11-02,35.05,Card,completed
+472,52,12,1,2026-05-03,118.44,Apple Pay,completed
+473,8,34,3,2026-09-23,125.01,PayPal,completed
+474,28,13,1,2026-03-12,14.78,Bank Transfer,completed
+475,88,31,1,2026-04-16,373.84,Bank Transfer,completed
+476,31,30,1,2026-06-06,342.92,Card,completed
+477,63,39,1,2026-03-23,388.69,Card,completed
+478,34,46,2,2025-12-01,386.27,Apple Pay,completed
+479,4,33,1,2026-06-13,398.19,Bank Transfer,completed
+480,28,31,1,2026-04-11,373.84,PayPal,completed
+481,82,12,1,2026-05-05,118.44,Apple Pay,completed
+482,38,47,1,2026-07-18,303.91,Bank Transfer,completed
+483,47,2,1,2025-12-31,184.87,PayPal,completed
+484,17,7,1,2026-03-11,138.63,PayPal,completed
+485,40,2,1,2025-12-20,184.87,PayPal,cancelled
+486,7,23,2,2026-02-14,154.29,PayPal,completed
+487,26,30,2,2026-02-28,342.92,Card,completed
+488,4,8,1,2025-12-04,101.27,Apple Pay,completed
+489,68,38,1,2026-07-23,411.61,Card,completed
+490,60,29,1,2026-05-29,116.27,Card,completed
+491,46,7,1,2026-02-07,138.63,Card,completed
+492,27,29,1,2026-07-09,116.27,Card,completed
+493,22,36,1,2026-04-09,71.57,Apple Pay,completed
+494,83,21,1,2026-06-23,54.01,Card,shipped
+495,79,15,1,2026-01-24,167.57,Card,completed
+496,38,43,1,2026-03-17,203.75,Card,completed
+497,96,29,2,2025-12-22,116.27,PayPal,completed
+498,43,18,2,2026-07-16,34.74,PayPal,completed
+499,59,46,1,2025-12-09,386.27,Card,completed
+500,98,31,1,2026-02-20,373.84,PayPal,completed
+501,98,41,1,2026-03-26,431.26,Card,shipped
+502,40,24,1,2025-12-16,441.06,Apple Pay,completed
+503,43,14,1,2025-10-15,261.63,Card,completed
+504,40,47,2,2025-11-26,303.91,Card,completed
+505,24,31,1,2026-08-04,373.84,Card,shipped
+506,70,43,1,2026-01-09,203.75,Card,shipped
+507,62,14,1,2026-04-27,261.63,Bank Transfer,completed
+508,46,12,1,2025-12-05,118.44,Bank Transfer,shipped
+509,67,37,3,2026-01-11,294.06,Card,completed
+510,100,35,1,2026-07-19,436.81,Card,completed
+511,8,17,1,2026-06-21,430.92,Card,completed
+512,83,2,3,2026-03-26,184.87,Card,completed
+513,23,19,1,2026-03-27,298.38,Apple Pay,completed
+514,14,35,1,2025-12-14,436.81,Card,completed
+515,67,23,1,2025-11-24,154.29,Bank Transfer,completed
+516,35,48,1,2026-04-08,195.63,Card,shipped
+517,37,38,1,2026-07-21,411.61,Apple Pay,completed
+518,62,45,1,2025-10-20,354.6,Bank Transfer,completed
+519,67,30,2,2026-02-27,342.92,Card,completed
+520,58,22,1,2026-06-07,427.19,PayPal,completed
+521,36,42,1,2025-10-20,316.39,PayPal,completed
+522,43,43,1,2026-05-15,203.75,Apple Pay,shipped
+523,29,32,1,2026-03-10,312.17,Apple Pay,completed
+524,37,22,1,2026-02-19,427.19,Card,completed
+525,3,4,1,2026-09-07,325.34,Apple Pay,completed
+526,8,3,1,2026-01-03,300.38,Bank Transfer,completed
+527,86,17,1,2026-06-30,430.92,Card,shipped
+528,69,45,1,2025-12-10,354.6,Bank Transfer,completed
+529,90,49,1,2026-06-18,289.44,PayPal,completed
+530,39,21,1,2026-04-18,54.01,Card,completed
+531,10,42,1,2026-01-15,316.39,Apple Pay,completed
+532,64,48,2,2026-05-09,195.63,PayPal,completed
+533,72,32,1,2026-05-11,312.17,PayPal,cancelled
+534,91,45,1,2025-10-30,354.6,PayPal,completed
+535,85,13,1,2026-04-27,14.78,Card,completed
+536,96,21,1,2026-01-07,54.01,PayPal,completed
+537,34,40,2,2026-05-16,80.26,Bank Transfer,completed
+538,32,45,1,2025-12-14,354.6,Bank Transfer,completed
+539,70,11,1,2026-10-04,467.96,Bank Transfer,completed
+540,36,41,1,2026-01-05,431.26,PayPal,completed
+541,20,6,1,2026-02-11,350.86,Card,completed
+542,98,29,3,2026-01-15,116.27,Bank Transfer,completed
+543,89,33,1,2026-07-20,398.19,Card,completed
+544,35,10,1,2026-06-11,170.65,Apple Pay,completed
+545,46,25,1,2026-02-08,54.09,PayPal,completed
+546,44,27,2,2025-12-19,150.38,Card,shipped
+547,31,39,1,2026-08-31,388.69,PayPal,completed
+548,1,50,1,2025-11-09,428.94,Card,completed
+549,58,13,1,2026-01-26,14.78,Card,completed
+550,5,2,1,2026-10-07,184.87,Apple Pay,completed
+551,30,14,1,2026-08-06,261.63,Card,completed
+552,22,43,1,2026-08-13,203.75,Card,completed
+553,4,2,2,2025-10-25,184.87,Card,completed
+554,1,19,1,2025-11-27,298.38,Card,completed
+555,38,12,1,2026-08-25,118.44,Card,completed
+556,72,34,1,2026-08-16,125.01,Apple Pay,completed
+557,55,50,1,2026-07-04,428.94,Apple Pay,cancelled
+558,67,20,1,2026-01-19,35.05,Card,completed
+559,31,42,1,2026-09-07,316.39,Apple Pay,completed
+560,21,35,2,2026-08-12,436.81,Apple Pay,shipped
+561,7,30,1,2026-06-06,342.92,Card,shipped
+562,80,10,1,2026-07-08,170.65,PayPal,completed
+563,93,31,2,2025-11-01,373.84,Apple Pay,completed
+564,25,50,2,2025-11-30,428.94,Card,completed
+565,90,46,2,2026-04-15,386.27,Bank Transfer,completed
+566,53,19,1,2026-01-25,298.38,Card,completed
+567,61,6,1,2026-09-21,350.86,PayPal,completed
+568,49,5,3,2026-09-24,207.77,Apple Pay,completed
+569,23,40,1,2026-06-04,80.26,Card,completed
+570,91,46,1,2026-02-28,386.27,Card,completed
+571,56,25,3,2026-09-20,54.09,Card,completed
+572,44,11,2,2026-01-31,467.96,PayPal,completed
+573,90,2,1,2026-07-02,184.87,Apple Pay,completed
+574,99,39,1,2026-03-09,388.69,Card,completed
+575,36,30,1,2025-10-20,342.92,Apple Pay,completed
+576,54,37,1,2026-02-16,294.06,PayPal,completed
+577,91,2,3,2026-06-16,184.87,PayPal,completed
+578,66,1,1,2025-11-07,131.89,Card,completed
+579,39,6,1,2026-10-04,350.86,Card,completed
+580,23,32,1,2026-05-24,312.17,Card,completed
+581,41,17,1,2026-05-13,430.92,Card,completed
+582,62,32,1,2025-11-22,312.17,Card,cancelled
+583,1,35,1,2025-12-26,436.81,Card,completed
+584,81,13,1,2026-09-01,14.78,Card,completed
+585,8,41,2,2026-01-20,431.26,Card,completed
+586,35,14,2,2025-11-03,261.63,Card,completed
+587,18,2,1,2026-04-20,184.87,Card,completed
+588,70,21,1,2026-04-29,54.01,Apple Pay,completed
+589,93,1,1,2026-06-07,131.89,Card,completed
+590,98,50,1,2026-01-25,428.94,Card,completed
+591,39,2,2,2026-01-29,184.87,PayPal,completed
+592,13,38,1,2026-03-17,411.61,Card,completed
+593,30,47,1,2026-01-25,303.91,Apple Pay,shipped
+594,21,21,1,2025-11-24,54.01,Card,completed
+595,62,22,1,2026-09-28,427.19,Apple Pay,completed
+596,80,44,1,2026-10-02,97.87,Bank Transfer,completed
+597,43,9,1,2026-10-08,173.53,Bank Transfer,shipped
+598,96,39,1,2026-02-26,388.69,Bank Transfer,shipped
+599,38,28,1,2025-11-15,392.05,Card,completed
+600,25,45,2,2026-09-15,354.6,Apple Pay,completed
